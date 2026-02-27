@@ -3,7 +3,7 @@
 """
 MNIST_tanh.py 
 
-WHAT THIS SCRIPT IS FOR (paper "chaos"):
+WHAT THIS SCRIPT IS FOR:
   - Generate a reference training trajectory (in parameter space) and multiple
     perturbed trajectories that start from (almost) the same initial condition.
   - Measure how the distance d(t) between trajectories grows during training.
