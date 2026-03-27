@@ -8,7 +8,7 @@ WHAT THIS SCRIPT IS FOR:
     perturbed trajectories that start from (almost) the same initial condition.
   - Measure how the distance d(t) between trajectories grows during training.
 
-HIGH-LEVEL PIPELINE:
+PIPELINE:
   1) Load MNIST (train/test). Use full-batch training to avoid mini-batch noise.
   2) Define a baseline MLP with tanh.
   3) For each random initialization i = 1..n_init:
