@@ -1,5 +1,5 @@
 # chaotic-transients-in-ANNs
-Repository for the paper "Leveraging chaotic transients in the training of artificial neural networks" (2026), Pedro Jiménez-González, Miguel C. Soriano and Lucas Lacasa, https://arxiv.org/abs/2506.08523
+Repository for the paper "Leveraging chaotic transients in the training of artificial neural networks" (2026), Pedro Jiménez-González, Miguel C. Soriano and Lucas Lacasa, https://doi.org/10.1103/t5p9-kv5w
 
 This repository provides a baseline implementation of the data-generation pipeline used in the paper. The included MNIST example produces divergence trajectories from neural network training.
 Post-processing steps (e.g., Lyapunov exponent fitting, statistical analysis, and figure generation) are not included in this repository.
